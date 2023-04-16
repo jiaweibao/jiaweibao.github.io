@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jiawei Bao's personal website"
+title: " "
 excerpt: "About me"
 author_profile: true
 redirect_from: 
