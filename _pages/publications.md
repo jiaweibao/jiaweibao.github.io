@@ -43,6 +43,5 @@ Keil, P., Schmidt, H, Stevens, B. & **Bao, J.** (2021) Variations of tropical la
 
 
 
-{ if author.googlescholar }
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{ endif }
+ You can also find my articles on <u><a href="{{[author.googlescholar](https://scholar.google.com/citations?hl=en&user=CB63GVIAAAAJ&view_op=list_works&sortby=pubdate)}}">my Google Scholar profile</a>.</u>
+
