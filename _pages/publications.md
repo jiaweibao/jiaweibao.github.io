@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+You can also find my articles on <u><a href="{{[author.googlescholar](https://scholar.google.com/citations?hl=en&user=CB63GVIAAAAJ&view_op=list_works&sortby=pubdate)}}">my Google Scholar profile</a>.</u>
+
 ## 2023
 
 Windmiller, J. M., **Bao, J.**. Sherwood, S., Schanzer, T. & Fuchs, D.(2023) Predicting Convective Downdrafts From Updrafts and Environmental Conditions in a Global Storm Resolving Simulation. *Journal of Advances in Modeling Earth Systems*. [https://doi.org/10.1029/2022MS003048](https://doi.org/10.1029/2022MS003048)
@@ -41,7 +43,4 @@ Keil, P., Schmidt, H, Stevens, B. & **Bao, J.** (2021) Variations of tropical la
 
 **Bao, J.**, Feng, J., & Wang, Y. (2015). Dynamical downscaling simulation and future projection of precipitation over China. *Journal of Geophysical Research: Atmospheres*, 120(16), 8227-8243.
 
-
-
- You can also find my articles on <u><a href="{{[author.googlescholar](https://scholar.google.com/citations?hl=en&user=CB63GVIAAAAJ&view_op=list_works&sortby=pubdate)}}">my Google Scholar profile</a>.</u>
 
