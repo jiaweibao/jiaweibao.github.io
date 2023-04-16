@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on <u><a href="{{[author.googlescholar](https://scholar.google.com/citations?hl=en&user=CB63GVIAAAAJ&view_op=list_works&sortby=pubdate)}}">my Google Scholar profile</a>.</u>
+You can also find my articles on [Google scholar](https://scholar.google.com/citations?user=CB63GVIAAAAJ&hl=en)
 
 ## 2023
 
