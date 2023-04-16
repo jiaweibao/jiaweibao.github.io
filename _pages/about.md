@@ -13,10 +13,12 @@ I am a postdoc at the Max Planck Institute for Meteorology in Hamburg, Germany. 
 Research
 ======
 1. **Organization of convection**
-- In idealized simulations of radiative-convective equilibrium, the organization of deep convection has been found to be very important for not only the local weather and climate, but also the large-scale environment. However, its influence in a realistic context is still not clear. I am using observations and global storm-resolving model simulations to study it.
+
+In idealized simulations of radiative-convective equilibrium, the organization of deep convection has been found to be very important for not only the local weather and climate, but also the large-scale environment. However, its influence in a realistic context is still not clear. I am using observations and global storm-resolving model simulations to study it.
 
 2. **Tropical precipitation extremes**
-- Tropical precipitation extremes tend to increase with rising temperatures. However, there are large uncertainties in terms of the rate of increase. Our current understanding of future precipitation extremes are mainly based on coarse-resolution global climate models (GCMs). One major criticism of such models is that the convective processes are parameterized, making it less appropriate for studying tropical precipitation extremes. I am trying to use global storm-resolving model (GSRM) simulations to see whether GSRMs can further improve our understanding.
+
+Tropical precipitation extremes tend to increase with rising temperatures. However, there are large uncertainties in terms of the rate of increase. Our current understanding of future precipitation extremes are mainly based on coarse-resolution global climate models (GCMs). One major criticism of such models is that the convective processes are parameterized, making it less appropriate for studying tropical precipitation extremes. I am trying to use global storm-resolving model (GSRM) simulations to see whether GSRMs can further improve our understanding.
 
 3. **Tropical thermodynamics**
 
