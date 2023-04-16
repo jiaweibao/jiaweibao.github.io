@@ -12,7 +12,5 @@ This paper is about the number 1. The number 2 is left for future work.
 
 
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
-
-Bao, J., Feng, J., & Wang, Y. (2015). "Dynamical downscaling simulation and future projection of precipitation over China". <i>Journal of Geophysical Research: Atmospheres</i>, 120(16), 8227-8243.[Download paper here](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/2015jd023275)
+Recommended citation: Bao, J., Feng, J., & Wang, Y. (2015). "Dynamical downscaling simulation and future projection of precipitation over China". <i>Journal of Geophysical Research: Atmospheres</i>, 120(16), 8227-8243.[Download paper here](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/2015jd023275)
 
