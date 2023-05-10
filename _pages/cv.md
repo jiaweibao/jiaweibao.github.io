@@ -21,4 +21,4 @@ Education
 
 * 2008-2012: B.S. in Atmospheric Science, Nanjing University of Information Science & Technology, China
 
-[Download full CV](https://github.com/jiaweibao/jiaweibao.github.io/blob/master/_pages/BAO_JIAWEI_20230510.pdf)
+[Download full CV](https://jiaweibao.github.io/blob/master/_pages/BAO_JIAWEI_20230510.pdf)
