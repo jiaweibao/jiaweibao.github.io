@@ -20,3 +20,5 @@ Education
 * 2012-2015: M.S. in Global Environment Change, Beijing Normal University University, China
 
 * 2008-2012: B.S. in Atmospheric Science, Nanjing University of Information Science & Technology, China
+
+[Download full CV](http://)
