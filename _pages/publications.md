@@ -7,7 +7,20 @@ author_profile: true
 
 You can also find my articles on [Google scholar](https://scholar.google.com/citations?user=CB63GVIAAAAJ&hl=en)
 
+## In Preparation
+
+Risi, C.& coauthors (including **Bao, J.**) Amplification of temperature changes with altitude in the tropics and subtropics
+
+**Bao, J.**, Bony, S. & Takasuka, D. A tropical-wide oscillation over 20-30 days
+
+
 ## 2023
+
+Hu, Y., Lin, Y.-L., Deng, Y.& **Bao, J.** Role of Synoptic Patterns in Historical Changes and Future Projection (*submitted*)
+
+Schmidt, H.& coauthors (including **Bao, J.**) Effects of vertical grid spacing on the climate simulated in the ICON-Sapphire global storm-resolving model (*submitted*)
+
+**Bao, J.** Stevens, B., Kluft, L.& Muller, C. Intensification of tropical precipitation extremes from more organized convection (*submitted*)
 
 Windmiller, J. M., **Bao, J.**. Sherwood, S., Schanzer, T. & Fuchs, D.(2023) Predicting Convective Downdrafts From Updrafts and Environmental Conditions in a Global Storm Resolving Simulation. *Journal of Advances in Modeling Earth Systems*. [https://doi.org/10.1029/2022MS003048](https://doi.org/10.1029/2022MS003048)
 
