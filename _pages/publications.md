@@ -7,6 +7,7 @@ author_profile: true
 
 You can also find my articles on [Google scholar](https://scholar.google.com/citations?user=CB63GVIAAAAJ&hl=en)
 
+## In preparation or submitted
 
 Risi, C.& coauthors (including **Bao, J.**) Amplification of temperature changes with altitude in the tropics and subtropics (*in prep*)
 
