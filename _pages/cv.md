@@ -11,7 +11,9 @@ redirect_from:
 
 Work experience
 ======
-* 2019-now: Postdoc, Max Planck Institute for Meteorology, Germany
+* 2023-now : IST-bridge Marie Curie postdoctoral fellow, Institute of Science and Technology Austria, Austria
+
+* 2019-2023: Postdoc, Max Planck Institute for Meteorology, Germany
 
 Education
 ======
