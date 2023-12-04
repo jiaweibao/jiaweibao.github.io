@@ -11,12 +11,11 @@ You can also find my articles on [Google scholar](https://scholar.google.com/cit
 
 Risi, C.& coauthors (including **Bao, J.**) Amplification of temperature changes with altitude in the tropics and subtropics (*in prep*)
 
-Hu, Y., Lin, Y.-L., Deng, Y. & **Bao, J.** Role of Synoptic Patterns in Historical Changes and Future Projection (*submitted*)
+Schmidt, H. & coauthors (including **Bao, J.**) Effects of vertical grid spacing on the climate simulated in the ICON-Sapphire global storm-resolving model (*in revision*)
 
-Schmidt, H. & coauthors (including **Bao, J.**) Effects of vertical grid spacing on the climate simulated in the ICON-Sapphire global storm-resolving model (*submitted*)
+**Bao, J.** Stevens, B., Kluft, L. & Muller, C. Intensification of tropical precipitation extremes from more organized convection (*in revision*)
 
-**Bao, J.** Stevens, B., Kluft, L. & Muller, C. Intensification of tropical precipitation extremes from more organized convection (*submitted*)
-
+Hu, Y., Lin, Y.-L., Deng, Y. & **Bao, J.** Role of Synoptic Patterns in Historical Changes and Future Projection (*in press*)
 
 ## 2023
 
