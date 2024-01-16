@@ -14,9 +14,9 @@ Risi, C.& coauthors (including **Bao, J.**) Amplification of temperature changes
 
 ## 2024
 
-Schmidt, H. & co-authors including Bao, J. (2024) Effects of vertical grid spacing on the climate simulated in a global storm-resolving model. *Geoscientific Model Development*. In press
+Schmidt, H. & co-authors including Bao, J. (2024) Effects of vertical grid spacing on the climate simulated in a global storm-resolving model. *Geoscientific Model Development*. (*in press*)
 
-Bao, J., Stevens B., Kluft, L., & Muller, C. (2024) Intensification of tropical precipitation extremes from more organized convection. *Science Advances*. In press
+Bao, J., Stevens B., Kluft, L., & Muller, C. (2024) Intensification of tropical precipitation extremes from more organized convection. *Science Advances*. (*in press*)
 
 ## 2023
 Hu, Y., Lin Y., Deng Y., & Bao, J. (2023) Summer Extreme Rainfall over the Middle and Lower Reaches of Yangtze River: Role of Synoptic Patterns in Historical Changes and Future Projection. *Journal of Geophysical Research: Atmospheres*. 128, e2023JD039608. [https://doi.org/10.1029/2023JD039608](https://doi.org/10.1029/2023JD039608)
