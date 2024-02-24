@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Jiawei Bao"
-title_separator          : "profile.png"
+title_separator          : " "
 name                     : &name "Your Name"
 description              : &description "personal description"
 url                      : https://jiaweibao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Jiawei Bao"
-  avatar           : ""
+  avatar           : "profile.png"
   bio              : "Postdoc at Institute of Science and Technology Austria"
   location         : "Vienna, Austria"
   employer         :
