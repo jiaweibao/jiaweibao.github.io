@@ -26,7 +26,7 @@ Windmiller, J. M., **Bao, J.**. Sherwood, S., Schanzer, T. & Fuchs, D.(2023) Pre
 Hohenegger, C. et al. including **Bao, J.** (2023) ICON-Sapphire: simulating the components of the Earth System and their interactions at kilometer and subkilometer scales. *Geoscientific Model Development*.[https://doi.org/10.5194/gmd-16-779-2023](https://doi.org/10.5194/gmd-16-779-2023)
 
 ## 2022
-**Bao, J.**, Dixit, V. & Sherwood, S. C. (2022) Zonal temperature gradients in the tropical free troposphere. *Journal of Climate*.[https://doi.org/10.5194/gmd-16-779-2023](https://doi.org/10.5194/gmd-16-779-2023)
+**Bao, J.**, Dixit, V. & Sherwood, S. C. (2022) Zonal temperature gradients in the tropical free troposphere. *Journal of Climate*.[https://doi.org/10.1175/JCLI-D-22-0145.1](https://doi.org/10.1175/JCLI-D-22-0145.1)
 
 ## 2021
 Keil, P., Schmidt, H, Stevens, B. & **Bao, J.** (2021) Variations of tropical lapse rates in climate models and their implications for the upper tropospheric warming. *Journal of Climate*. [https://doi.org/10.1175/JCLI-D-21-0196.1](https://doi.org/10.1175/JCLI-D-21-0196.1)
