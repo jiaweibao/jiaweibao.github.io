@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an IST-bridge Marie Curie postdoctoral fellow at Institute of Science and Technology Austria. My broad research interest is tropical convection and dynamics. I use a range of tools including theory, modeling and observations to study convection and how they interact with large-scale circulation. I completed my Ph.D in Climate Science at the University of New South Wales in Sydney Australia. My Ph.D research was about understanding extreme precipitation and its links with convective organisation.
+I am an IST-bridge Marie Curie postdoctoral fellow at [Institute of Science and Technology Austria (ISTA)](https://ist.ac.at/en/home/). My broad research interest is tropical convection and dynamics. I use a range of tools including theory, modeling and observations to study convection and how they interact with large-scale circulation. Prior to joining ISTA, I was a postdoctoral research at [the Max Planck Institute for Meteorolog](https://mpimet.mpg.de/en/homepage). I completed my Ph.D in Climate Science at  [the University of New South Wales](https://www.unsw.edu.au) in Sydney Australia. My Ph.D research was about understanding extreme precipitation and its links with convective organisation.
 
 Research
 ======
