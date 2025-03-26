@@ -29,3 +29,21 @@ Tropical temperature and lapse rates
 </div>
 
 <hr style="width: 100%; border: 1px solid #ccc; margin: 30px 0;">
+
+<div style="display: flex; align-items: flex-start;">
+  <!-- Image and Caption Container -->
+  <div style="display: flex; flex-direction: column; align-items: center; width: 600px; margin-right: 20px;">
+    <img src="/images/Lapse_rate.jpg" alt="Example Image" width="600px">
+    <figcaption style="text-align: center; width: 100%; font-size: 14px; margin-top: 5px;">
+      Mean profiles of θ̃s(Tc) and θe (Tc; qt, c) averaged over all grid points (black) and extremely humid grid points [colors from yellow to blue correspond to the 90th, 99th, 99.9th, 99.99th, and 99.999th percentiles of precipitable water (PW)]. Freezing levels are marked in red.
+    </figcaption>
+  </div>
+  <!-- Text Description with Bold Title and External Link -->
+  <div style="max-width: 500px; margin-top: 0;">
+    <p><strong><a href="https://www.jstage.jst.go.jp/article/jmsj/99/6/99_2021-072/_html/-char/en" target="_blank" style="text-decoration: none; color: #0073e6;">The Elements of the Thermodynamic Structure of the Tropical Atmosphere
+(Bao et al. 2021 J. Meteo. Soc. Japan)</a></strong></p>
+    <p>
+      By combining theoretical understanding of tropical thermal structure with data analysis using observations and global storm-resolving models (GSRMs), We find that the tropical atmosphere in saturated convective regions tends to adopt a thermal structure that is isentropic below the zero-degree isotherm and pseudo-adiabatic above it. However, the tropical mean temperature is substantially colder and is set by the bulk of convection, which is affected by entrainment in the lower troposphere.
+    </p>
+  </div>
+</div>
