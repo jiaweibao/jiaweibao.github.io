@@ -21,7 +21,7 @@ Tropical temperature and lapse rates
   </div>
   <!-- Text Description with Bold Title and External Link -->
   <div style="max-width: 500px; margin-top: 0;">
-    <p><strong><a href="https://journals.ametsoc.org/view/journals/clim/35/24/JCLI-D-22-0145.1.xml" target="_blank" style="text-decoration: none; color: #0073e6;">Zonal Temperature Gradients in the Tropical Free Troposphere</a></strong></p>
+    <p><strong><a href="https://journals.ametsoc.org/view/journals/clim/35/24/JCLI-D-22-0145.1.xml" target="_blank" style="text-decoration: none; color: #0073e6;">Zonal Temperature Gradients in the Tropical Free Troposphere (Bao et al. 2022 J. Clim.)</a></strong></p>
     <p>
       We analyse ERA5 reanalysis data and discover that there exist substantial zonal temperature gradients in the tropical free troposphere. This contradicts the conventional understanding that the tropical free-tropospheric temperature is spatially uniform with weak temperature gradients.
     </p>
