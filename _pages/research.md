@@ -33,7 +33,7 @@ Tropical temperature and lapse rates
 <div style="display: flex; align-items: flex-start;">
   <!-- Image and Caption Container -->
   <div style="display: flex; flex-direction: column; align-items: center; width: 600px; margin-right: 20px;">
-    <img src="/images/Lapse_rate.jpg" alt="Example Image" width="600px">
+    <img src="/images/Lapse_rate.png" alt="Example Image" width="600px">
     <figcaption style="text-align: center; width: 100%; font-size: 14px; margin-top: 5px;">
       Mean profiles of θ̃s(Tc) and θe (Tc; qt, c) averaged over all grid points (black) and extremely humid grid points [colors from yellow to blue correspond to the 90th, 99th, 99.9th, 99.99th, and 99.999th percentiles of precipitable water (PW)]. Freezing levels are marked in red.
     </figcaption>
