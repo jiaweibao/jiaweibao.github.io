@@ -13,7 +13,7 @@ author_profile: true
   <div style="display: flex; flex-direction: column; align-items: center; width: 600px; margin-right: 20px;">
     <img src="/images/Org_GSRM.jpg" alt="Example Image" width="600px">
     <figcaption style="text-align: center; width: 100%; font-size: 14px; margin-top: 5px;">
-      (A) Fractional changes in daily precipitation over all regions (P), over the ocean (Po) and surface saturation specific humidity (qs*) as a function of precipitation percentile. P, Po, and qs* are sorted for each day and then averaged over each month from April to September. The changes are computed between 2070 and 1850 and are normalized by the mean surface temperature increase. The solid lines show the mean values of all months across four ensemble members. Shadings show the interquartile range. (B). Mean Iorg in 1850 versus 2070. The error bars show SEs from monthly variations. (C and D) Changes in daily precipitation extremes over all regions [ΔPn, (C)] and daily precipitation extremes over the ocean [ΔPo,n, (D)] versus changes in organization (ΔIorg). The changes are computed between 2070 and 1850 and are normalized by the mean surface temperature increase. Each dot represents the daily change averaged in 1 month, and colors from red to dark red indicate results for daily precipitation extremes at 95th, 99th, and 99.9th percentiles, respectively. Pentagrams are the mean values of all months. The horizontal dashed line in (C) and (D) is the corresponding changes in surface saturation specific humidity (Δqs*). The results are obtained from ICONA.
+      (A) Fractional changes in daily precipitation over all regions (P), over the ocean (Po) and surface saturation specific humidity (qs*) as a function of precipitation percentile. P, Po, and qs* are sorted for each day and then averaged over each month from April to September. The changes are computed between 2070 and 1850 and are normalized by the mean surface temperature increase. The solid lines show the mean values of all months across four ensemble members. Shadings show the interquartile range. (B). Mean Iorg in 1850 versus 2070. The error bars show SEs from monthly variations. (C and D) Changes in daily precipitation extremes over all regions [ΔPn, (C)] and daily precipitation extremes over the ocean [ΔPo,n, (D)] versus changes in organization (ΔIorg). The changes are computed between 2070 and 1850 and are normalized by the mean surface temperature increase. Each dot represents the daily change averaged in 1 month, and colors from red to dark red indicate results for daily precipitation extremes at 95th, 99th, and 99.9th percentiles, respectively. Pentagrams are the mean values of all months.
     </figcaption>
   </div>
   <!-- Text Description with Bold Title and External Link -->
@@ -27,7 +27,25 @@ author_profile: true
 </div>
 
 <hr style="width: 100%; border: 1px solid #ccc; margin: 30px 0;">
+<div style="display: flex; align-items: flex-start;">
+  <!-- Image and Caption Container -->
+  <div style="display: flex; flex-direction: column; align-items: center; width: 600px; margin-right: 20px;">
+    <img src="/images/Org_CRM.jpg" alt="Example Image" width="600px">
+    <figcaption style="text-align: center; width: 100%; font-size: 14px; margin-top: 5px;">
+     Probability density functions (PDFs) of instantaneous (a, c) and daily (b, d) precipitation in simulations with Goddard (GD; a, b) and Thompson (TH; c, d) microphysics schemes. PDFs of observed 1-min precipitation over the period 1998–2013 from the Atmospheric Radiation Measurement (ARM) station on Manus Island, Papua New Guinea, are also shown (a).
+    </figcaption>
+  </div>
+  <!-- Text Description with Bold Title and External Link -->
+  <div style="max-width: 500px; margin-top: 0;">
+    <p><strong><a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018MS001503" target="_blank" style="text-decoration: none; color: #0073e6;">The Role of Convective Self-Aggregation in Extreme Instantaneous Versus Daily Precipitation
+(Bao&Sherwood 2019 JAMES)</a></strong></p>
+    <p>
+     The impacts of convective self-aggregation on extreme precipitation and updraft velocity are investigated by using the Weather Research and Forecasting Model in the idealized setting of radiative-convective equilibrium with a 3-km horizontal resolution. Aggregated and unaggregated states are achieved by conducting simulations with fully interactive and fixed radiation. The results show that convective self-aggregation has a negligible impact on extreme instantaneous precipitation, but extreme daily precipitation increases significantly with increased aggregation. Extreme instantaneous precipitation is more sensitive to microphysical processes, while extreme daily precipitation is more sensitive to the degree of aggregation
+    </p>
+  </div>
+</div>
 
+<hr style="width: 100%; border: 1px solid #ccc; margin: 30px 0;">
 
 **Tropical temperature and lapse rates**
 
