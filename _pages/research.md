@@ -5,8 +5,31 @@ permalink: /research/
 author_profile: true
 ---
 
+**Convective organisation and precipitation extremes**
 
-Tropical temperature and lapse rates
+<hr style="width: 100%; border: 1px solid #ccc; margin: 30px 0;">
+<div style="display: flex; align-items: flex-start;">
+  <!-- Image and Caption Container -->
+  <div style="display: flex; flex-direction: column; align-items: center; width: 600px; margin-right: 20px;">
+    <img src="/images/Org_GSRM.jpg" alt="Example Image" width="600px">
+    <figcaption style="text-align: center; width: 100%; font-size: 14px; margin-top: 5px;">
+      (A) Fractional changes in daily precipitation over all regions (P), over the ocean (Po) and surface saturation specific humidity (qs*) as a function of precipitation percentile. P, Po, and qs* are sorted for each day and then averaged over each month from April to September. The changes are computed between 2070 and 1850 and are normalized by the mean surface temperature increase. The solid lines show the mean values of all months across four ensemble members. Shadings show the interquartile range. (B). Mean Iorg in 1850 versus 2070. The error bars show SEs from monthly variations. (C and D) Changes in daily precipitation extremes over all regions [ΔPn, (C)] and daily precipitation extremes over the ocean [ΔPo,n, (D)] versus changes in organization (ΔIorg). The changes are computed between 2070 and 1850 and are normalized by the mean surface temperature increase. Each dot represents the daily change averaged in 1 month, and colors from red to dark red indicate results for daily precipitation extremes at 95th, 99th, and 99.9th percentiles, respectively. Pentagrams are the mean values of all months. The horizontal dashed line in (C) and (D) is the corresponding changes in surface saturation specific humidity (Δqs*). The results are obtained from ICONA.
+    </figcaption>
+  </div>
+  <!-- Text Description with Bold Title and External Link -->
+  <div style="max-width: 500px; margin-top: 0;">
+    <p><strong><a href="https://www.science.org/doi/full/10.1126/sciadv.adj6801" target="_blank" style="text-decoration: none; color: #0073e6;">Intensification of daily tropical precipitation extremes from more organized convection
+(Bao et al. 2024 Sci. Adv.)</a></strong></p>
+    <p>
+      We analyse ERA5 reanalysis data and discover that there exist substantial zonal temperature gradients in the tropical free troposphere. This contradicts the conventional understanding that the tropical free-tropospheric temperature is spatially uniform with weak temperature gradients.
+    </p>
+  </div>
+</div>
+
+<hr style="width: 100%; border: 1px solid #ccc; margin: 30px 0;">
+
+
+**Tropical temperature and lapse rates**
 
 
 <hr style="width: 100%; border: 1px solid #ccc; margin: 30px 0;">
