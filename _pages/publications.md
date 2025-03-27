@@ -15,7 +15,7 @@ You can also find my articles on [Google scholar](https://scholar.google.com/cit
 
 Risi, C.& coauthors (including **Bao, J.**) Amplification of temperature changes with altitude in the tropics and subtropics (*in prep*)
 
-Segura H. et al. (including **Bao, J.**.) nextGEMS: entering the era of kilometer-scale Earth system modeling (*submitted*)
+Segura H. et al. (including **Bao, J.**) nextGEMS: entering the era of kilometer-scale Earth system modeling (*submitted*)
 
 
 ## 2025
