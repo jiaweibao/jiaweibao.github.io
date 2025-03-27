@@ -7,7 +7,6 @@ author_profile: true
 
 **Convective organisation and precipitation extremes**
 
-<hr style="width: 100%; border: 1px solid #ccc; margin: 30px 0;">
 <div style="display: flex; align-items: flex-start;">
   <!-- Image and Caption Container -->
   <div style="display: flex; flex-direction: column; align-items: center; width: 600px; margin-right: 20px;">
@@ -49,8 +48,6 @@ author_profile: true
 
 **Tropical temperature and lapse rates**
 
-
-<hr style="width: 100%; border: 1px solid #ccc; margin: 30px 0;">
 
 <div style="display: flex; align-items: flex-start;">
   <!-- Image and Caption Container -->
