@@ -8,9 +8,20 @@ author_profile: true
 You can also find my articles on [Google scholar](https://scholar.google.com/citations?user=CB63GVIAAAAJ&hl=en)
 
 ## In preparation or submitted
-**Bao, J.**, Bony, S. & Takasuka, D. Tropical wide oscillations (*in prep*)
+
+**Bao, J.**, Becker, T. & Takasuka, D. Precipitation Characteristics and Thermodynamic-Convection Coupling in Global Kilometer-Scale Simulations  (*in prep*)
+
+**Bao, J.**, Bony, S., Takasuka, D. & Muller C. Tropics-wide intraseasonal oscillations (*in prep*)
 
 Risi, C.& coauthors (including **Bao, J.**) Amplification of temperature changes with altitude in the tropics and subtropics (*in prep*)
+
+Segura H. et al. (including **Bao, J.**.) nextGEMS: entering the era of kilometer-scale Earth system modeling (*submitted*)
+
+
+## 2025
+
+Gnanaraj A., **Bao, J.** & Schmidt H. The impact of the rotation rate on an aquaplanet's radiant energy budget: Insights from experiments varying the Coriolis parameter. Weather and Climate Dynamics (*in press*)
+
 
 ## 2024
 
