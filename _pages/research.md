@@ -40,7 +40,7 @@ author_profile: true
     <p><strong><a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018MS001503" target="_blank" style="text-decoration: none; color: #0073e6;">The Role of Convective Self-Aggregation in Extreme Instantaneous Versus Daily Precipitation
 (Bao&Sherwood 2019 JAMES)</a></strong></p>
     <p>
-     The impacts of convective self-aggregation on extreme precipitation and updraft velocity are investigated by using the Weather Research and Forecasting Model in the idealized setting of radiative-convective equilibrium with a 3-km horizontal resolution. Aggregated and unaggregated states are achieved by conducting simulations with fully interactive and fixed radiation. The results show that convective self-aggregation has a negligible impact on extreme instantaneous precipitation, but extreme daily precipitation increases significantly with increased aggregation. Extreme instantaneous precipitation is more sensitive to microphysical processes, while extreme daily precipitation is more sensitive to the degree of aggregation
+     The impacts of convective self-aggregation on extreme precipitation and updraft velocity are investigated by using the Weather Research and Forecasting Model in the idealized setting of radiative-convective equilibrium with a 3-km horizontal resolution. The results show that convective self-aggregation has a negligible impact on extreme instantaneous precipitation, but extreme daily precipitation increases significantly with increased aggregation. Extreme instantaneous precipitation is more sensitive to microphysical processes, while extreme daily precipitation is more sensitive to the degree of aggregation
     </p>
   </div>
 </div>
