@@ -11,16 +11,16 @@ You can also find my articles on [Google scholar](https://scholar.google.com/cit
 
 Risi, C.& coauthors (including **Bao, J.**) Amplification of temperature changes with altitude in the tropics and subtropics (*in prep*)
 
-Wang, J., Tett, S. **Bao, J.**, Sun Y., Wang, X. & Ge, Q. Anthropogenically inequitable risks of sequential extreme precipitation-humid heat events between tropical and extratropical regions (*submitted*)
+Wang, J., Tett, S. **Bao, J.**, Sun Y., Wang, X. & Ge, Q. Anthropogenically inequitable risks of sequential extreme precipitation-humid heat events between tropical and extratropical regions (*submitted to Nature Communnications*)
 
 Yoon, A., Hohenegger C., **Bao, J.** & Brunner, L. Extreme events in the Amazon after
-deforestation (*submitted*)
+deforestation (*submitted to Earth System Dynamics*)
 
-**Bao, J.**, Becker, T. & Takasuka, D. Precipitation Characteristics and Thermodynamic-Convection Coupling in Global Kilometer-Scale Simulations  (*submitted*)
-
-**Bao, J.**, Bony, S., Takasuka, D. & Muller C. Tropics-wide intraseasonal oscillations (*submitted*)
+**Bao, J.**, Becker, T. & Takasuka, D. Precipitation Characteristics and Thermodynamic-Convection Coupling in Global Kilometer-Scale Simulations  (*submitted to Journal of Advances in Modeling Earth Systems*)
 
 ## 2025
+**Bao, J.**, Bony, S., Takasuka, D. & Muller C. Tropics-wide intraseasonal oscillations. *Proceedings of National Academy of Sciences* (*in press*)
+
 Segura H. et al. (including **Bao, J.**) nextGEMS: entering the era of kilometer-scale Earth system modeling. *Geoscientific Model Development*. (*in press*)
 
 Gnanaraj A., **Bao, J.** & Schmidt H. The impact of the rotation rate on an aquaplanet's radiant energy budget: Insights from experiments varying the Coriolis parameter. *Weather and Climate Dynamics*. [https://doi.org/10.5194/wcd-6-489-2025](https://doi.org/10.5194/wcd-6-489-2025)
