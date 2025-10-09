@@ -19,7 +19,7 @@ deforestation (*submitted to Earth System Dynamics*)
 **Bao, J.**, Becker, T. & Takasuka, D. Precipitation Characteristics and Thermodynamic-Convection Coupling in Global Kilometer-Scale Simulations  (*submitted to Journal of Advances in Modeling Earth Systems*)
 
 ## 2025
-**Bao, J.**, Bony, S., Takasuka, D. & Muller C. Tropics-wide intraseasonal oscillations. *Proceedings of National Academy of Sciences* (*in press*)
+**Bao, J.**, Bony, S., Takasuka, D. & Muller C. Tropics-wide intraseasonal oscillations. *Proceedings of National Academy of Sciences.* (*in press*)
 
 Segura H. et al. (including **Bao, J.**) nextGEMS: entering the era of kilometer-scale Earth system modeling. *Geoscientific Model Development*. (*in press*)
 
