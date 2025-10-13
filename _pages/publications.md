@@ -11,15 +11,17 @@ You can also find my articles on [Google scholar](https://scholar.google.com/cit
 
 Risi, C.& coauthors (including **Bao, J.**) Amplification of temperature changes with altitude in the tropics and subtropics (*in prep*)
 
-Wang, J., Tett, S. **Bao, J.**, Sun Y., Wang, X. & Ge, Q. Anthropogenically inequitable risks of sequential extreme precipitation-humid heat events between tropical and extratropical regions (*submitted to Nature Communnications*)
+**Bao, J.**, Muller, C. & Singh, M. The impact of mesoscale organization on the free-tropospheric temperature (*in prep*)
+
+Wang, J., Tett, S. **Bao, J.**, Sun Y., Wang, X. & Ge, Q. Anthropogenically inequitable risks of sequential extreme precipitation-humid heat events between tropical and extratropical regions (*submitted to Nature Communications*)
 
 Yoon, A., Hohenegger C., **Bao, J.** & Brunner, L. Extreme events in the Amazon after
 deforestation (*submitted to Earth System Dynamics*)
 
-**Bao, J.**, Becker, T. & Takasuka, D. Precipitation Characteristics and Thermodynamic-Convection Coupling in Global Kilometer-Scale Simulations  (*submitted to Journal of Advances in Modeling Earth Systems*)
+**Bao, J.**, Becker, T. & Takasuka, D. Precipitation Characteristics and Thermodynamic-Convection Coupling in Global Kilometer-Scale Simulations  (*submitted to Journal of Advances in Modeling Earth Systems*, equal first authors)
 
 ## 2025
-**Bao, J.**, Bony, S., Takasuka, D. & Muller C. Tropics-wide intraseasonal oscillations. *Proceedings of National Academy of Sciences.* (*in press*)
+**Bao, J.**, Bony, S., Takasuka, D. & Muller, C. Tropics-wide intraseasonal oscillations. *Proceedings of National Academy of Sciences.* (*in press*)
 
 Segura H. et al. (including **Bao, J.**) nextGEMS: entering the era of kilometer-scale Earth system modeling. *Geoscientific Model Development*. (*in press*)
 
