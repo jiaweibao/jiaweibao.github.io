@@ -11,7 +11,7 @@ You can also find my articles on [Google scholar](https://scholar.google.com/cit
 
 Risi, C.& coauthors (including **Bao, J.**) Amplification of temperature changes with altitude in the tropics and subtropics (*in prep*)
 
-**Bao, J.**, Muller, C. & Singh, M. The impact of mesoscale organization on the free-tropospheric temperature (*in prep*)
+**Bao, J.**, Muller, C. & Singh, M. Impact of mesoscale organization on the free-tropospheric temperature (*in prep*)
 
 Wang, J., Tett, S. **Bao, J.**, Sun Y., Wang, X. & Ge, Q. Anthropogenically inequitable risks of sequential extreme precipitation-humid heat events between tropical and extratropical regions (*submitted to Nature Communications*)
 
