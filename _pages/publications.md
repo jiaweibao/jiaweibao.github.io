@@ -18,7 +18,7 @@ Wang, J., Tett, S. **Bao, J.**, Sun Y., Wang, X. & Ge, Q. Anthropogenically ineq
 Yoon, A., Hohenegger C., **Bao, J.** & Brunner, L. Extreme events in the Amazon after
 deforestation (*submitted to Earth System Dynamics*)
 
-**Bao, J.**, Becker, T. & Takasuka, D. Precipitation Characteristics and Thermodynamic-Convection Coupling in Global Kilometer-Scale Simulations  (*submitted to Journal of Advances in Modeling Earth Systems*, equal first authors)
+Takasuka, D., Becker, T. & **Bao, J.** Precipitation Characteristics and Thermodynamic-Convection Coupling in Global Kilometer-Scale Simulations  (*submitted to Journal of Advances in Modeling Earth Systems*, equal first authors)
 
 ## 2025
 **Bao, J.**, Bony, S., Takasuka, D. & Muller, C. Tropics-wide intraseasonal oscillations. *Proceedings of National Academy of Sciences*. [https://doi.org/10.1073/pnas.2511549122](https://doi.org/10.1073/pnas.2511549122)
