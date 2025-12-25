@@ -9,9 +9,9 @@ author_profile: true
 <div style="display: flex; align-items: flex-start;">
   <!-- Image and Caption Container -->
   <div style="display: flex; flex-direction: column; align-items: center; width: 600px; margin-right: 20px;">
-    <img src="/images/TWISO_ts.png" alt="Example Image" width="600px">
+    <img src="/images/Schematic_TWISO_JPEG.jpeg" alt="Example Image" width="600px">
     <figcaption style="text-align: center; width: 100%; font-size: 14px; margin-top: 5px;">
-      (A–C): Daily time series of the deseasonalized tropical mean sea surface temperature (SST), 500 hPa temperature ($T_{500}$), net top-of-atmosphere radiation ($N_{toa}$) averaged over the tropics (30°S to 30°N) from ERA5 and another source of observational or reanalysis dataset. The deseasonalization is done by subtracting the daily climatological values over the 2001–2020 period. Thin lines: the original time series after deseasonalization; thick lines: the smoothed time series obtained by applying a 10-d running mean. (D–F): The same time series but filtered over the frequency range of 30 to 60 d by applying bandpass filtering with Fourier transform. For visualization purposes, the time series are shown only for the years 2017–2019. But the oscillations are robust across other years as well.
+      (Upper two panels): Daily time series of tropical mean sea surface temperature (SST) and 500 hPa temperature ($T_{500}$)averaged over the tropics (30°S to 30°N) filtered over the frequency range of 30 to 60 d by applying bandpass filtering with Fourier transform from ERA5 and another source of observational or reanalysis dataset. (Lower two panels): Schematics of the two phases of TWISO corresponding to the time series highlighted in grey.
     </figcaption>
   </div>
   <!-- Text Description with Bold Title and External Link -->
