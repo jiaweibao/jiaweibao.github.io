@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-**Tropical climte variability**
+**Tropical climate variability**
 <div style="display: flex; align-items: flex-start;">
   <!-- Image and Caption Container -->
   <div style="display: flex; flex-direction: column; align-items: center; width: 600px; margin-right: 20px;">
