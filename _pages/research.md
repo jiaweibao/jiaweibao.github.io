@@ -5,6 +5,28 @@ permalink: /research/
 author_profile: true
 ---
 
+**Tropical climte variability**
+<div style="display: flex; align-items: flex-start;">
+  <!-- Image and Caption Container -->
+  <div style="display: flex; flex-direction: column; align-items: center; width: 600px; margin-right: 20px;">
+    <img src="/images/Org_GSRM.jpg" alt="Example Image" width="600px">
+    <figcaption style="text-align: center; width: 100%; font-size: 14px; margin-top: 5px;">
+      (A) Fractional changes in daily precipitation over all regions (P), over the ocean (Po) and surface saturation specific humidity (qs*) as a function of precipitation percentile. P, Po, and qs* are sorted for each day and then averaged over each month from April to September. The changes are computed between 2070 and 1850 and are normalized by the mean surface temperature increase. The solid lines show the mean values of all months across four ensemble members. Shadings show the interquartile range. (B). Mean Iorg in 1850 versus 2070. The error bars show SEs from monthly variations. (C and D) Changes in daily precipitation extremes over all regions [ΔPn, (C)] and daily precipitation extremes over the ocean [ΔPo,n, (D)] versus changes in organization (ΔIorg). The changes are computed between 2070 and 1850 and are normalized by the mean surface temperature increase. Each dot represents the daily change averaged in 1 month, and colors from red to dark red indicate results for daily precipitation extremes at 95th, 99th, and 99.9th percentiles, respectively. Pentagrams are the mean values of all months.
+    </figcaption>
+  </div>
+  <!-- Text Description with Bold Title and External Link -->
+  <div style="max-width: 500px; margin-top: 0;">
+    <p><strong><a href="https://www.pnas.org/doi/abs/10.1073/pnas.2511549122" target="_blank" style="text-decoration: none; color: #0073e6;">Tropics-wide intraseasonal oscillations (Bao et al. 2025 PNAS)</a></strong></p>
+    <p>
+     Tropical climate variability is shaped by a range of oscillations, but most known modes influencing the tropical mean state occur on seasonal or interannual timescales. Here, we identify a pronounced tropics-wide intraseasonal oscillation (TWISO) with a 30 to 60-days period, evident in satellite observations and reanalysis data. TWISO emerges across multiple variables and reflects dynamic interactions among convection, radiation, and large-scale circulation. Its widespread expression suggests substantial impacts on tropical weather and climate at regional scales.
+    </p>
+  </div>
+</div>
+
+<hr style="width: 100%; border: 1px solid #ccc; margin: 30px 0;">
+
+
+
 **Convective organisation and precipitation extremes**
 
 <div style="display: flex; align-items: flex-start;">
