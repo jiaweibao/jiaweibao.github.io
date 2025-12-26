@@ -11,7 +11,7 @@ author_profile: true
   <div style="display: flex; flex-direction: column; align-items: center; width: 600px; margin-right: 20px;">
     <img src="/images/Schematic_TWISO_JPEG.jpg" alt="Example Image" width="600px">
     <figcaption style="text-align: center; width: 100%; font-size: 14px; margin-top: 5px;">
-      (Upper two panels): Daily time series of tropical mean sea surface temperature (SST) and 500 hPa temperature ($T_{500}$)averaged over the tropics (30°S to 30°N) filtered over the frequency range of 30 to 60 d by applying bandpass filtering with Fourier transform from ERA5 and another source of observational or reanalysis dataset. (Lower two panels): Schematics of the two phases of TWISO corresponding to the time series highlighted in grey.
+      (Upper two panels): Daily time series of tropical mean sea surface temperature (SST) and 500 hPa temperature ($T_{500}$) averaged over the tropics (30°S to 30°N) filtered over the frequency range of 30 to 60 d by applying bandpass filtering with Fourier transform from ERA5. (Lower two panels): Schematics of the two opposite phases of TWISO corresponding to the time series highlighted in grey.
     </figcaption>
   </div>
   <!-- Text Description with Bold Title and External Link -->
