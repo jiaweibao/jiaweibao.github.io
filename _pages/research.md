@@ -76,7 +76,7 @@ author_profile: true
   <div style="display: flex; flex-direction: column; align-items: center; width: 600px; margin-right: 20px;">
     <img src="/images/WTG.jpg" alt="Example Image" width="600px">
     <figcaption style="text-align: center; width: 100%; font-size: 14px; margin-top: 5px;">
-      Spatial anomalies of the climatological monthly mean Tv500 (K; shading) and T500 (K; contours) averaged in (a) January and (b) July. The spatial anomalies are computed by subtracting the spatial mean values over 20°N–20°S for January and July.
+      Spatial anomalies of the climatological monthly mean 500hPa virtual temperature (K; shading) and temperature (K; contours) averaged in (a) January and (b) July. The spatial anomalies are computed by subtracting the spatial mean values over 20°N–20°S for January and July.
     </figcaption>
   </div>
   <!-- Text Description with Bold Title and External Link -->
