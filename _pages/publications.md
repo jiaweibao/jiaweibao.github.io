@@ -15,10 +15,12 @@ Risi, C.& coauthors (including **Bao, J.**) Amplification of temperature changes
 
 Wang, J., Tett, S. **Bao, J.**, Sun Y., Wang, X. & Ge, Q. Anthropogenically inequitable risks of sequential extreme precipitation-humid heat events between tropical and extratropical regions (*submitted to Nature Communications*)
 
-Yoon, A., Hohenegger C., **Bao, J.** & Brunner, L. Extreme events in the Amazon after
-deforestation (*submitted to Earth System Dynamics*)
-
 Takasuka, D., Becker, T. & **Bao, J.** Precipitation Characteristics and Thermodynamic-Convection Coupling in Global Kilometer-Scale Simulations  (*submitted to Journal of Advances in Modeling Earth Systems*, equal first authors)
+
+## 2026
+Yoon, A., Hohenegger C., **Bao, J.** & Brunner, L. Extreme events in the Amazon after
+deforestation. *Earth System Dynamics*. (in press)
+
 
 ## 2025
 **Bao, J.**, Bony, S., Takasuka, D. & Muller, C. Tropics-wide intraseasonal oscillations. *Proceedings of National Academy of Sciences*. [https://doi.org/10.1073/pnas.2511549122](https://doi.org/10.1073/pnas.2511549122)
