@@ -13,13 +13,13 @@ Risi, C.& coauthors (including **Bao, J.**) Amplification of temperature changes
 
 **Bao, J.**, Muller, C. & Singh, M. Impact of mesoscale organization on the free-tropospheric temperature (*in prep*)
 
-Wang, J., Tett, S. **Bao, J.**, Sun Y., Wang, X. & Ge, Q. Anthropogenically inequitable risks of sequential extreme precipitation-humid heat events between tropical and extratropical regions (*submitted to Nature Communications*)
+Wang, J., Tett, S. **Bao, J.**, Sun Y., Wang, X. & Ge, Q. Anthropogenically inequitable risks of sequential extreme precipitation-humid heat events between tropical and extratropical regions (*in prep*)
 
 Takasuka, D., Becker, T. & **Bao, J.** Precipitation Characteristics and Thermodynamic-Convection Coupling in Global Kilometer-Scale Simulations  (*submitted to Journal of Advances in Modeling Earth Systems*, equal first authors)
 
 ## 2026
 Yoon, A., Hohenegger C., **Bao, J.** & Brunner, L. Extreme events in the Amazon after
-deforestation. *Earth System Dynamics*. (in press)
+deforestation. *Earth System Dynamics* (in press). [Preprint](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-3221/)
 
 
 ## 2025
