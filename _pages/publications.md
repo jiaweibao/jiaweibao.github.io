@@ -19,7 +19,7 @@ Takasuka, D., Becker, T. & **Bao, J.** Precipitation Characteristics and Thermod
 
 ## 2026
 Yoon, A., Hohenegger C., **Bao, J.** & Brunner, L. Extreme events in the Amazon after
-deforestation. *Earth System Dynamics* (in press). [Preprint](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-3221/)
+deforestation. *Earth System Dynamics*. [https://doi.org/10.5194/esd-17-167-2026](https://doi.org/10.5194/esd-17-167-2026)
 
 
 ## 2025
