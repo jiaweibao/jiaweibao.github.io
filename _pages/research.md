@@ -40,7 +40,7 @@ author_profile: true
   <!-- Text Description with Bold Title and External Link -->
   <div style="max-width: 500px; margin-top: 0;">
     <p><strong><a href="https://www.science.org/doi/full/10.1126/sciadv.adj6801" target="_blank" style="text-decoration: none; color: #0073e6;">Intensification of daily tropical precipitation extremes from more organized convection
-(Bao et al. 2024 Sci. Adv.)</a></strong></p>
+(Bao et al. 2024 Science Advances)</a></strong></p>
     <p>
       Tropical precipitation extremes are projected to intensify in a warmer climate, but it is unclear what processes can regulate precipitation extremes. With a new generation of models (global storm-resolving model), ones that explicitly represent the transient dynamics of convective storms, this study highlights the importance of spatial clustering of convection at mesoscale, a process that is not resolved by conventional global climate models, to influence how precipitation extremes will change with warming. When convective storms are more clustered, tropical precipitation extremes increase with storms being less numerous but larger in size. Furthermore, the results indicate that potential possibility of strong intensification of the heaviest rainfall as climate warms is related to this mesoscale process.
     </p>
