@@ -13,6 +13,8 @@ Risi, C.& coauthors (including **Bao, J.**) Amplification of temperature changes
 
 Wang, J., Tett, S. **Bao, J.**, Sun Y., Wang, X. & Ge, Q. Anthropogenically inequitable risks of sequential extreme precipitation-humid heat events between tropical and extratropical regions (*in prep*)
 
+He, Y., Wang, J., Feng, J. **Bao, J.** & Nie, J. Anthropogenic warming intensified the July 2023 North China extreme rainfall through enhancing moisture transport and convective organization（*in review*)
+
 **Bao, J.**, Muller, C. & Singh, M. Understanding the role of land and convective organization in determining the free-tropospheric temperature in the tropics (*in review*)
 
 
