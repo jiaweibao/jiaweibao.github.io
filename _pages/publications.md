@@ -11,13 +11,14 @@ You can also find my articles on [Google scholar](https://scholar.google.com/cit
 
 Risi, C.& coauthors (including **Bao, J.**) Amplification of temperature changes with altitude in the tropics and subtropics (*in prep*)
 
-**Bao, J.**, Muller, C. & Singh, M. Impact of mesoscale organization on the free-tropospheric temperature (*in prep*)
-
 Wang, J., Tett, S. **Bao, J.**, Sun Y., Wang, X. & Ge, Q. Anthropogenically inequitable risks of sequential extreme precipitation-humid heat events between tropical and extratropical regions (*in prep*)
 
-Takasuka, D., Becker, T. & **Bao, J.** Precipitation Characteristics and Thermodynamic-Convection Coupling in Global Kilometer-Scale Simulations  (*submitted to Journal of Advances in Modeling Earth Systems*, equal first authors)
+**Bao, J.**, Muller, C. & Singh, M. Understanding the role of land and convective organization in determining the free-tropospheric temperature in the tropics (*in review*)
+
 
 ## 2026
+Takasuka, D., Becker, T. & **Bao, J.** Precipitation Characteristics and Thermodynamic-Convection Coupling in Global Kilometer-Scale Simulations  *Journal of Advances in Modeling Earth Systems* ( *in press*, equal first authors)
+
 Yoon, A., Hohenegger C., **Bao, J.** & Brunner, L. Extreme events in the Amazon after
 deforestation. *Earth System Dynamics*. [https://doi.org/10.5194/esd-17-167-2026](https://doi.org/10.5194/esd-17-167-2026)
 
