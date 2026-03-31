@@ -27,7 +27,7 @@ deforestation](https://doi.org/10.5194/esd-17-167-2026). *Earth System Dynamics*
 ## 2025
 **Bao, J.**, Bony, S., Takasuka, D. & Muller, C. (2025) [Tropics-wide intraseasonal oscillations](https://doi.org/10.1073/pnas.2511549122). *Proceedings of National Academy of Sciences*. 
 
-Segura H. et al. (including **Bao, J.**) (2025) [nextGEMS: entering the era of kilometer-scale Earth system modeling](https://doi.org/10.5194/gmd-18-7735-2025). *Geoscientific Model Development*.
+Segura H. et al. including **Bao, J.** (2025) [nextGEMS: entering the era of kilometer-scale Earth system modeling](https://doi.org/10.5194/gmd-18-7735-2025). *Geoscientific Model Development*.
 
 Gnanaraj A., **Bao, J.** & Schmidt H. (2025) [The impact of the rotation rate on an aquaplanet's radiant energy budget: Insights from experiments varying the Coriolis parameter](https://doi.org/10.5194/wcd-6-489-2025). *Weather and Climate Dynamics*. 
 
