@@ -11,7 +11,7 @@ You can also find my articles on [Google scholar](https://scholar.google.com/cit
 
 Risi, C. et al. including **Bao, J.** Amplification of temperature changes with altitude in the tropics and subtropics (*in prep*)
 
-Wang, J., Tett, S. **Bao, J.**, Sun Y., Wang, X. & Ge, Q. Anthropogenically inequitable risks of sequential extreme precipitation-humid heat events between tropical and extratropical regions (*in prep*)
+Wang, J., Tett, S., **Bao, J.**, Sun Y., Wang, X. & Ge, Q. Anthropogenically inequitable risks of sequential extreme precipitation-humid heat events between tropical and extratropical regions (*in prep*)
 
 He, Y., Wang, J., Feng, J. **Bao, J.** & Nie, J. Anthropogenic warming intensified the July 2023 North China extreme rainfall through enhancing moisture transport and convective organization（*in review*)
 
