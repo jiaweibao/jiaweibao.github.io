@@ -19,7 +19,7 @@ He, Y., Wang, J., Feng, J. **Bao, J.** & Nie, J. Anthropogenic warming intensifi
 
 
 ## 2026
-Takasuka, D., Becker, T. & **Bao, J.** (2026) [Precipitation Characteristics and Thermodynamic-Convection Coupling in Global Kilometer-Scale Simulations](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2025MS005343). *Journal of Advances in Modeling Earth Systems* ( equal first authors)
+Takasuka, D., Becker, T. & **Bao, J.** (2026) [Precipitation Characteristics and Thermodynamic-Convection Coupling in Global Kilometer-Scale Simulations](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2025MS005343). *Journal of Advances in Modeling Earth Systems* (equal first authors)
 
 Yoon, A., Hohenegger C., **Bao, J.** & Brunner, L. (2026) [Extreme events in the Amazon after
 deforestation](https://doi.org/10.5194/esd-17-167-2026). *Earth System Dynamics*.
