@@ -25,7 +25,8 @@ Yoon, A., Hohenegger C., **Bao, J.** & Brunner, L. [Extreme events in the Amazon
 deforestation](https://doi.org/10.5194/esd-17-167-2026). *Earth System Dynamics*.
 
 ## 2025
-**Bao, J.**, Bony, S., Takasuka, D. & Muller, C. [Tropics-wide intraseasonal oscillations](https://doi.org/10.1073/pnas.2511549122). *Proceedings of National Academy of Sciences*.
+**Bao, J.**, Bony, S., Takasuka, D. & Muller, C. [Tropics-wide intraseasonal oscillations](https://doi.org/10.1073/pnas.2511549122). *Proceedings of National Academy of Sciences*. 
+[ISTA news](https://ista.ac.at/en/news/hidden-in-plain-sight/),[ORF](https://science.orf.at/stories/3233060/)
 
 Segura H. et al. (including **Bao, J.**) [nextGEMS: entering the era of kilometer-scale Earth system modeling](https://doi.org/10.5194/gmd-18-7735-2025). *Geoscientific Model Development*.
 
@@ -37,6 +38,7 @@ Gnanaraj A., **Bao, J.** & Schmidt H. [The impact of the rotation rate on an aqu
 Schmidt, H. & co-authors including **Bao, J.** (2024) [Effects of vertical grid spacing on the climate simulated in a global storm-resolving model](https://doi.org/10.5194/gmd-17-1563-2024). *Geoscientific Model Development*.
 
 **Bao, J.**, Stevens B., Kluft, L., & Muller, C. (2024) [Intensification of daily tropical precipitation extremes from more organized convection](https://doi.org/10.1126/sciadv.adj6801). *Science Advances*.
+[Science daily](https://www.sciencedaily.com/releases/2024/02/240225212517.htm),[yahoo news](https://tw.news.yahoo.com/雲群增加-極端降雨-全球氣候模型揭示熱帶雨林新危機-040000570.html?guccounter=1)
 
 ## 2023
 Hu, Y., Lin Y., Deng Y., & **Bao, J.** (2023) [Summer Extreme Rainfall over the Middle and Lower Reaches of Yangtze River: Role of Synoptic Patterns in Historical Changes and Future Projection](https://doi.org/10.1029/2023JD039608). *Journal of Geophysical Research: Atmospheres*.
