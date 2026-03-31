@@ -9,7 +9,7 @@ You can also find my articles on [Google scholar](https://scholar.google.com/cit
 
 ## In preparation or submitted
 
-Risi, C.& coauthors (including **Bao, J.**) Amplification of temperature changes with altitude in the tropics and subtropics (*in prep*)
+Risi, C. et al. including **Bao, J.** Amplification of temperature changes with altitude in the tropics and subtropics (*in prep*)
 
 Wang, J., Tett, S. **Bao, J.**, Sun Y., Wang, X. & Ge, Q. Anthropogenically inequitable risks of sequential extreme precipitation-humid heat events between tropical and extratropical regions (*in prep*)
 
@@ -34,7 +34,7 @@ Gnanaraj A., **Bao, J.** & Schmidt H. (2025) [The impact of the rotation rate on
 
 ## 2024
 
-Schmidt, H. & co-authors including **Bao, J.** (2024) [Effects of vertical grid spacing on the climate simulated in a global storm-resolving model](https://doi.org/10.5194/gmd-17-1563-2024). *Geoscientific Model Development*.
+Schmidt, H. et al. including **Bao, J.** (2024) [Effects of vertical grid spacing on the climate simulated in a global storm-resolving model](https://doi.org/10.5194/gmd-17-1563-2024). *Geoscientific Model Development*.
 
 **Bao, J.**, Stevens B., Kluft, L., & Muller, C. (2024) [Intensification of daily tropical precipitation extremes from more organized convection](https://doi.org/10.1126/sciadv.adj6801). *Science Advances*.
 
